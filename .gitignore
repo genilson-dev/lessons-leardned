@@ -5,5 +5,6 @@ cypress/screenshots
 .DS_Store
 README.md
 trybe.yml
-
+README.md
+.trybe
 
