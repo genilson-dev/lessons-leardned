@@ -72,7 +72,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar todas as pessoas!
 
-![exemplo](./exemplo.png)
+<!-- ![exemplo](./exemplo.png) -->
 
 ## Desenvolvimento
 
