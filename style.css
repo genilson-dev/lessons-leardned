@@ -9,8 +9,19 @@ body {
   padding: 10px;
   background: green;
   border: solid 1px black;
+  font-size: 10px;
   size: 33px;
   color: white;
   line-height: 10px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+.lado-direito {
+  float: right;
+  width: 50%;
+}
+.lado-esquerdo {
+  float: left;
+  width: 50%;
 }
